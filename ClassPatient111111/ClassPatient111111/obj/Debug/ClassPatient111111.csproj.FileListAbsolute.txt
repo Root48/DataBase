@@ -1,0 +1,12 @@
+c:\users\ostap\documents\visual studio 2015\Projects\ClassPatient111111\ClassPatient111111\bin\Debug\ClassPatient111111.exe.config
+c:\users\ostap\documents\visual studio 2015\Projects\ClassPatient111111\ClassPatient111111\bin\Debug\ClassPatient111111.exe
+c:\users\ostap\documents\visual studio 2015\Projects\ClassPatient111111\ClassPatient111111\bin\Debug\ClassPatient111111.pdb
+c:\users\ostap\documents\visual studio 2015\Projects\ClassPatient111111\ClassPatient111111\bin\Debug\EntityFramework.dll
+c:\users\ostap\documents\visual studio 2015\Projects\ClassPatient111111\ClassPatient111111\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\ostap\documents\visual studio 2015\Projects\ClassPatient111111\ClassPatient111111\bin\Debug\EntityFramework.xml
+c:\users\ostap\documents\visual studio 2015\Projects\ClassPatient111111\ClassPatient111111\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\ostap\documents\visual studio 2015\Projects\ClassPatient111111\ClassPatient111111\obj\Debug\ClassPatient111111.Form1.resources
+c:\users\ostap\documents\visual studio 2015\Projects\ClassPatient111111\ClassPatient111111\obj\Debug\ClassPatient111111.Properties.Resources.resources
+c:\users\ostap\documents\visual studio 2015\Projects\ClassPatient111111\ClassPatient111111\obj\Debug\ClassPatient111111.csproj.GenerateResource.Cache
+c:\users\ostap\documents\visual studio 2015\Projects\ClassPatient111111\ClassPatient111111\obj\Debug\ClassPatient111111.exe
+c:\users\ostap\documents\visual studio 2015\Projects\ClassPatient111111\ClassPatient111111\obj\Debug\ClassPatient111111.pdb
